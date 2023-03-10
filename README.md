@@ -10,5 +10,6 @@ My solutions for foundamentals javascript by codewars
 - Reverse words
 - MakeUpperCase
 - Sentence Smash
+- Calculate BMI
 
 to be continued...
