@@ -12,5 +12,6 @@ My solutions for foundamentals javascript by codewars
 - Sentence Smash
 - Calculate BMI
 - Reversed Strings
+- Remove First and Last Character
 
 to be continued...
