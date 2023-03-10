@@ -9,5 +9,6 @@ My solutions for foundamentals javascript by codewars
 - Sum Arrays
 - Reverse words
 - MakeUpperCase
+- Sentence Smash
 
 to be continued...
