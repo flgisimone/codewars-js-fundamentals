@@ -13,5 +13,6 @@ My solutions for foundamentals javascript by codewars
 - Calculate BMI
 - Reversed Strings
 - Remove First and Last Character
+- Friend or Foe?
 
 to be continued...
