@@ -11,5 +11,6 @@ My solutions for foundamentals javascript by codewars
 - MakeUpperCase
 - Sentence Smash
 - Calculate BMI
+- Reversed Strings
 
 to be continued...
