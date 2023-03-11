@@ -15,5 +15,6 @@ My solutions for foundamentals javascript by codewars
 - Remove First and Last Character
 - Friend or Foe?
 - String Repeat
+- Returning Strings
 
 to be continued...
