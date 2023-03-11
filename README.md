@@ -14,5 +14,6 @@ My solutions for foundamentals javascript by codewars
 - Reversed Strings
 - Remove First and Last Character
 - Friend or Foe?
+- String Repeat
 
 to be continued...
