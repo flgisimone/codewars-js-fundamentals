@@ -25,5 +25,6 @@ My solutions for foundamentals javascript by codewars
 - Find the smallest integer in the array
 - Abbreviate a Two Word Name
 - Beginner - Reduce but Grow
+- Invert values
 
 to be continued...
