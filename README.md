@@ -20,5 +20,6 @@ My solutions for foundamentals javascript by codewars
 - Beginner Series #1 School Paperwork
 - Remove exclamation marks
 - Thinkful - Logic Drills: Traffic light
+- Parse nice int from char problem
 
 to be continued...
