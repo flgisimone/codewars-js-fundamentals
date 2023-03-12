@@ -30,5 +30,6 @@ My solutions for foundamentals javascript by codewars
 - How good are you really?
 - Convert boolean values to strings 'Yes' or 'No'.
 - Grasshopper - Grade book
+- Return Negative
 
 to be continued...
