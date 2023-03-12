@@ -26,5 +26,6 @@ My solutions for foundamentals javascript by codewars
 - Abbreviate a Two Word Name
 - Beginner - Reduce but Grow
 - Invert values
+- Square(n) Sum
 
 to be continued...
