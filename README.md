@@ -18,5 +18,6 @@ My solutions for foundamentals javascript by codewars
 - Returning Strings
 - Sum of two lowest positive integers
 - Beginner Series #1 School Paperwork
+- Remove exclamation marks
 
 to be continued...
