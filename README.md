@@ -16,5 +16,6 @@ My solutions for foundamentals javascript by codewars
 - Friend or Foe?
 - String Repeat
 - Returning Strings
+- Sum of two lowest positive integers
 
 to be continued...
