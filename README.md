@@ -17,5 +17,6 @@ My solutions for foundamentals javascript by codewars
 - String Repeat
 - Returning Strings
 - Sum of two lowest positive integers
+- Beginner Series #1 School Paperwork
 
 to be continued...
