@@ -22,5 +22,6 @@ My solutions for foundamentals javascript by codewars
 - Thinkful - Logic Drills: Traffic light
 - Parse nice int from char problem
 - Credit Card Mask
+- Find the smallest integer in the array
 
 to be continued...
