@@ -27,5 +27,6 @@ My solutions for foundamentals javascript by codewars
 - Beginner - Reduce but Grow
 - Invert values
 - Square(n) Sum
+- How good are you really?
 
 to be continued...
