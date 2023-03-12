@@ -23,5 +23,6 @@ My solutions for foundamentals javascript by codewars
 - Parse nice int from char problem
 - Credit Card Mask
 - Find the smallest integer in the array
+- Abbreviate a Two Word Name
 
 to be continued...
