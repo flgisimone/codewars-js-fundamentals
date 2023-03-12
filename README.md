@@ -29,5 +29,6 @@ My solutions for foundamentals javascript by codewars
 - Square(n) Sum
 - How good are you really?
 - Convert boolean values to strings 'Yes' or 'No'.
+- Grasshopper - Grade book
 
 to be continued...
