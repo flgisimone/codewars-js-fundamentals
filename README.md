@@ -19,5 +19,6 @@ My solutions for foundamentals javascript by codewars
 - Sum of two lowest positive integers
 - Beginner Series #1 School Paperwork
 - Remove exclamation marks
+- Thinkful - Logic Drills: Traffic light
 
 to be continued...
