@@ -21,5 +21,6 @@ My solutions for foundamentals javascript by codewars
 - Remove exclamation marks
 - Thinkful - Logic Drills: Traffic light
 - Parse nice int from char problem
+- Credit Card Mask
 
 to be continued...
