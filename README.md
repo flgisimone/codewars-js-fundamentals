@@ -24,5 +24,6 @@ My solutions for foundamentals javascript by codewars
 - Credit Card Mask
 - Find the smallest integer in the array
 - Abbreviate a Two Word Name
+- Beginner - Reduce but Grow
 
 to be continued...
