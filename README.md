@@ -28,5 +28,6 @@ My solutions for foundamentals javascript by codewars
 - Invert values
 - Square(n) Sum
 - How good are you really?
+- Convert boolean values to strings 'Yes' or 'No'.
 
 to be continued...
